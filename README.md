@@ -1,1 +1,1 @@
-# CSE150B_AI
+# CSE150B (AI Search and Reasoning) Projects
